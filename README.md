@@ -1,9 +1,5 @@
-# 🚗 Car Colour Detection Model  
+# 🚗 Car Colour Detection Model 
 
-### 📘 Internship Project — 2025  
-**Developed by:** *[Your Name]*  
-
----
 
 ## 🧠 Project Overview  
 
@@ -54,5 +50,7 @@ Car_Colour_Detection/
 Environment setup : [.venv](https://drive.google.com/file/d/1Z1vCwV6_O9K8wUsL8fLCn5TU9S5KCC2T/view?usp=sharing)
 
 Implemented Successfully : [ .mp4 ](https://drive.google.com/file/d/1Nt7tGJ85yZXGF4RDsA0wefRK4jCwC9DR/view?usp=sharing) 
+
+---
 
 ## THANK YOU
